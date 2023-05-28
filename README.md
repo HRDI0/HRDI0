@@ -6,17 +6,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRDI0&show_icons=true&theme=radical)
 
 
-hello. I am Seongmin Heo, a developer who dreams of becoming an ML engineer.
-I mainly use Python, and I deal with C/C++, SQL, etc.
-I am interested in Data Analytics, ML Engineer, and MLOps.
+👋 hello. I am Seongmin Heo, a developer who dreams of becoming an ML engineer.   
+I mainly use Python, and I deal with C/C++, SQL, etc.   
+I am interested in Data Analytics, ML Engineer, and MLOps.   
 
-While I was in college, I participated in research on a immersive glasses-free 3D solution as a research assistant and was in charge of technical analysis.
 
-I completed an AI developer training course for 6 months from December 2021, and developed a multi-speaker fairy tale reading service, "Meozzini".
-Project Wiki: https://github.com/long-practice/KDT_B1/wiki
-In service development, I was mainly responsible for data collection, pre-processing and analysis, model operation environment configuration, and database and model linkage.
+I completed an AI developer training course for 6 months from December 2021, and developed a multi-speaker fairy tale reading service, "Meozzini".   
+Project Wiki: https://github.com/long-practice/KDT_B1/wiki   
 
-I am currently working as a text analyst and NLP, NLU engineer at Insizer Co., Ltd. since July 2022.
+In service development, I was mainly responsible for data collection, pre-processing and analysis, model operation environment configuration, and database and model linkage.   
+
+I am currently working as a text analyst and NLP, NLU engineer at Insizer Co., Ltd. since July 2022.   
 
 
 <!--
