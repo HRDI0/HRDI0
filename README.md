@@ -6,17 +6,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRDI0&show_icons=true&theme=radical)
 
 
-👋 hello. I am Seongmin Heo, a developer who dreams of becoming an ML engineer.   
-I mainly use Python, and I deal with C/C++, SQL, etc.   
-I am interested in Data Analytics, ML Engineer, and MLOps.   
+👋 Hello—I’m Seongmin Heo, a data scientist in steady pursuit of mastery.
 
+I have several years of experience as a Data Scientist and AI Engineer. I contributed to a public-sector project for agricultural reservoir level forecasting and disaster prevention, taking part in both data collection and model development. I also worked on a smart control model for an industrial water-treatment testbed.
 
-I completed an AI developer training course for 6 months from December 2021, and developed a multi-speaker fairy tale reading service, "Meozzini".   
-Project Wiki: https://github.com/long-practice/KDT_B1/wiki   
+My toolkit includes Python, PyTorch, MySQL, Docker, and C/C++. I apply a deep understanding of data analysis and modeling to solve real problems, and I bring a broad project background and solid technical stack to data science and ML engineering work.
 
-In service development, I was mainly responsible for data collection, pre-processing and analysis, model operation environment configuration, and database and model linkage.   
+Lately, I’ve been especially motivated by creating value through fast-evolving technologies and practical problem solving. If we work together, I’ll focus on elevating the team’s outcomes and delivering measurable impact.
 
-I am currently working as a text analyst and NLP, NLU engineer at Insizer Co., Ltd. since July 2022.   
 
 ### CONTACT ME!
 <a href="sungminh.sw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="(https://www.notion.so/hsungmin/26e7ed486dd580cd981ffd401c363744" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="www.linkedin.com/in/seongmin-heo-282949324" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin"/></a> 
