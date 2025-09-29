@@ -19,7 +19,8 @@ In service development, I was mainly responsible for data collection, pre-proces
 I am currently working as a text analyst and NLP, NLU engineer at Insizer Co., Ltd. since July 2022.   
 
 ### CONTACT ME!
-<a href="sungminh.sw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.notion.so/hsungmin/26e7ed486dd580cd981ffd401c363744?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> 
+<a href="sungminh.sw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="(https://www.notion.so/hsungmin/26e7ed486dd580cd981ffd401c363744" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="www.linkedin.com/in/seongmin-heo-282949324" target="_blank"><img src="[https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> 
+
 <!--
 **HRDI0/HRDI0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
