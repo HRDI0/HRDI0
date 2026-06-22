@@ -115,23 +115,6 @@ Personal research and development around knowledge-driven AI applications.
 
 ---
 
-## GitHub Stats
-
-![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRDI0&show_icons=true&theme=radical)
-
-
-## Recent Activity
-
-[![Seongmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HRDI0&theme=github-compact&hide_border=true)](https://github.com/HRDI0)
-
-
-## GitHub Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HRDI0&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HRDI0&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HRDI0&theme=github_dark)
----
-
 ## Contact
 
 <p>
