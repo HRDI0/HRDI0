@@ -115,6 +115,14 @@ Personal research and development around knowledge-driven AI applications.
 
 ---
 
+## GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HRDI0&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HRDI0&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HRDI0&theme=github_dark)
+
+---
+
 ## Contact
 
 <p>
