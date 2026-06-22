@@ -59,7 +59,7 @@ My focus is on building practical AI solutions that create measurable value, esp
   <a href="mailto:sungminh.sw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.notion.so/hsungmin/26e7ed486dd580cd981ffd401c363744">
+  <a href="https://app.notion.com/p/hsungmin/ac104b9c044e444eb9b796c17c329b84?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/seongmin-heo-282949324">
